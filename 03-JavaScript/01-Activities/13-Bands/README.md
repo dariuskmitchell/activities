@@ -8,7 +8,7 @@
 
   * Create an array of your favorite bands.
 
-  * With a prompt, ask the user's favorite band.
+  * 
 
   * If it's one of your favorites, alert: "YEAH I LOVE THEM!"
 
